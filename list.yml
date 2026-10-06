@@ -37,6 +37,9 @@ sections:
     - name: tern-office-preview
       url: https://github.com/zerx-lab/tern-office-preview
       description: Previews Word and Excel files natively in a block using a Rust renderer, with no Office, browser or LibreOffice involved.
+    - name: tern-usage-monitor
+      url: https://github.com/rico-vz/tern-usage-monitor
+      description: Floating or docked panel showing usage for every omp linked account, with per-account quota bars, auto-refresh, ordering and update-time settings.
   - title: Window and workflow
     blurb: Window plugins add commands, keybindings, layouts, and status-line segments.
     entries:
